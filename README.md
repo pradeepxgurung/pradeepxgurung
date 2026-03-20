@@ -7,7 +7,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/pradeepxgurung/).
 Check out my [portfolio](#portfolio)
 
 
-### Portfolio
+# Portfolio
 
 
 <!--
