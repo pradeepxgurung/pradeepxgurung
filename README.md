@@ -2,7 +2,7 @@
 
 I'm Pradeep - a former Computer Science student who got lost in the world of coffee ☕ for over a decade. Now looking to get back into it, since I've had my java fix.
 
-You can connect with my on [LinkedIn](https://www.linkedin.com/in/pradeepxgurung/).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/pradeepxgurung/).
 
 <!--
 **pradeepxgurung/pradeepxgurung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
