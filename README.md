@@ -1,6 +1,6 @@
 ## Hello! 👋🏾 
 
-I'm Pradeep - a former Computer Science student who got lost in the world of coffee ☕ for over a decade. Now looking to get back into it, since I've had my java fix.
+I'm Pradeep - a former Computer Science student who got lost in the world of coffee ☕ for over a decade. I'm now looking to get back into it, since I've had my java fix.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/pradeepxgurung/).
 
