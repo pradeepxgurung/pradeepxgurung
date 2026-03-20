@@ -1,6 +1,6 @@
 ## Hello!
 
-I'm Pradeep - a former Computer Science student who got lost in the world of coffee for over a decade.
+I'm Pradeep - a former Computer Science student who got lost in the world of coffee ☕ for over a decade.
 
 <!--
 **pradeepxgurung/pradeepxgurung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
